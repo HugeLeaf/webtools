@@ -1,5 +1,6 @@
 ## Documentation
-This project is forked from [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
+This project is forked from [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools).
+
 Read upstream repository for general background and original design details, please.
 
 ## Difference
